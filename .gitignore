@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# ChromaDB persistence directory
+chroma_db/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
